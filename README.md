@@ -5,4 +5,4 @@ Projeto realizado à fins de estudo, onde funciona como basicamente um "mecanism
 
 o arquivo sistema deve ser executado para verificar o prorama em funcionamento;
 o arquivo pessoas é onde será realizado o cadastro 
-a pasta lib foi usada para modularização, nela contém as "defs" / (funções) responsaveis pelo arquivo de cadastro na pasta 
+a pasta lib foi usada para modularização, nela contém as "defs" / (funções) responsaveis pelo arquivo de cadastro na pasta arquivo 
